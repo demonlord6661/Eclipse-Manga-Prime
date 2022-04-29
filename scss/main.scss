@@ -2,3 +2,23 @@
   margin: 0;
   padding: 0;
 }
+
+@mixin random-bgr() {
+  background: rgb(random(255), random(255), random(255));
+}
+
+.section_header {
+  display: flex;
+  align-items: center;
+  align-self: flex-start;
+  align-content: center;
+  .color_box {
+    height: 2rem;
+    width: 2rem;
+    @include random-bgr();
+    .title_box {
+      .view_more {
+      }
+    }
+  }
+}
