@@ -1,20 +1,35 @@
+$general-textS: 1.5rem;
+
 .border1{
 box-sizing: border-box;
 width: 100%;
-border: solid #202649 0.5rem;
+border: solid #202649 0.3rem;
 padding: 5px;
 height: 10rem;
 }
 
+.pages_list{
+box-sizing: border-box;
+width: 30%;
+border: solid #202649 0.2rem;
+padding: 0.8rem;
+height: 3rem;
+margin-top: 2rem;
+margin-left: 25rem;
+}
+
 .title1{
 box-sizing: border-box;
-width: 15%;
-border: solid #202649 0.5rem;
-padding: 0.5rem;
+width: 12%;
+border: solid #202649 0.2rem;
+padding: 0.8rem;
 height: 3rem;
-margin-top: 1rem;
+margin-top: 3rem;
+margin-left: 4rem;
 }
 
 .text_po{
-   margin-top: 4rem;
+   margin-top: -0.5rem;
+   font-size: $general-textS;
 }
+
