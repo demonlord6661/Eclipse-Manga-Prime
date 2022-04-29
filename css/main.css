@@ -9,10 +9,8 @@
   align-self: flex-start;
   align-content: center;
 }
-
 .section_header .color_box {
   height: 2rem;
   width: 2rem;
-  background: #63c25a;
-}
-/*# sourceMappingURL=main.css.map */
+  background: rgb(76, 59, 27);
+}/*# sourceMappingURL=main.css.map */
