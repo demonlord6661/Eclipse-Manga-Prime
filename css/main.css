@@ -745,6 +745,13 @@ progress {
   margin-right: calc(-0.5 * var(--bs-gutter-x));
   margin-left: calc(-0.5 * var(--bs-gutter-x));
 }
+<<<<<<< HEAD
+.section_header .color_box {
+  height: 2rem;
+  width: 2rem;
+  background: rgb(205, 183, 75);
+}/*# sourceMappingURL=main.css.map */
+=======
 
 .row > * {
   flex-shrink: 0;
@@ -10977,3 +10984,4 @@ fieldset:disabled .btn {
   }
 }
 /*# sourceMappingURL=main.css.map */
+>>>>>>> 82b87da57092731cbf3cace915e5f55e5f3f79d9
