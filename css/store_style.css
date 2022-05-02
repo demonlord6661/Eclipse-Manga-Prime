@@ -12118,4 +12118,8 @@ fieldset:disabled .btn {
   .d-print-none {
     display: none !important;
   }
+
+  .fully {
+    font-size: 8rem;
+  }
 }/*# sourceMappingURL=store_style.css.map */
