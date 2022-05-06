@@ -12118,4 +12118,8 @@ fieldset:disabled .btn {
   .d-print-none {
     display: none !important;
   }
+
+  .pal {
+    text-align: right;
+  }
 }/*# sourceMappingURL=store_style.css.map */
