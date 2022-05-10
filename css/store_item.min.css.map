@@ -1,9 +1,1 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,YAAY,AAAC,CACX,KAAK,CAAE,KAAK,CACZ,MAAM,CAAE,eAAe,CACvB,OAAO,CAAE,IAAI,CACb,aAAa,CAAE,IAAI,CACnB,UAAU,CAAE,kBAAkB,CAC/B,AAED,AAAA,kBAAkB,AAAC,CACjB,gBAAgB,CAAE,iBAAoB,CACtC,OAAO,CAAE,IAAI,CACb,aAAa,CAAE,IAAI,CACnB,MAAM,CAAE,eAAe,CACvB,UAAU,CAAE,GAAG,CAAC,GAAG,CAAC,IAAI,CAAC,KAAK,CAAE,KAAK,CAAC,GAAG,CAAC,GAAG,CAAC,IAAI,CAAC,oBAAuB,CACxE,KAAK,CAAC,GAAG,CAAC,IAAI,CAAC,IAAI,CAAC,oBAAuB,CAC9C",
-    "sources": [
-        "../scss/store_item.scss"
-    ],
-    "names": [],
-    "file": "store_item.min.css"
-}
+{"version":3,"sourceRoot":"","sources":["../scss/store_item.scss"],"names":[],"mappings":"AAAA,aACE,YACA,sBACA,aACA,mBACA,6BAGF,mBACE,kCACA,aACA,mBACA,sBACA","file":"store_item.min.css"}
