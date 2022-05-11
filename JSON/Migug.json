@@ -10,13 +10,94 @@
       "Section" : "New Arrivals"
     },
     {
+      "name": "Failed Noble Lord",
+      "Genre": "Fantasy, Martial Arts, System, Adventure, Action",
+      "Rating": 4,
+      "Chapters": 10,
+      "Description": "",
+      "Authors" : "Emanuel Jhagarti",
+      "Section" : ""
+    },
+    {
+      "name": "The Infinite Plane Of Stars",
+      "Genre": "Action, Fantasy, Sci-Fi, Adventure, Comedy, Martial Arts",
+      "Rating": 2,
+      "Chapters": 10,
+      "Description": "",
+      "Authors" : "Emanuel Jhagarti",
+      "Section" : ""
+    },
+    {
+      "name": "The Space Gods Daily Life",
+      "Genre": "Sci-Fi, Action, Comedy, Isekai, System",
+      "Rating": 3,
+      "Chapters": 10,
+      "Description": "",
+      "Authors" : "Emanuel Jhagarti",
+      "Section" : ""
+    },
+    {
+      "name": "Making A Kingdom On Hard Mode",
+      "Genre": "Fantasy, Action, System, Martial Arts, Mystery, Comedy, Gore",
+      "Rating": 5,
+      "Chapters": 10,
+      "Description": "",
+      "Authors" : "Emanuel Jhagarti",
+      "Section" : ""
+    },
+    {
+      "name": "Transmigrated Into A Ghost",
+      "Genre": "Fantasy, Action, System, COmedy, GOre, Isekai",
+      "Rating": 4,
+      "Chapters": 10,
+      "Description": "",
+      "Authors" : "Emanuel Jhagarti",
+      "Section" : ""
+    },
+    {
+      "name": "Worst Overlord's Kingdom",
+      "Genre": "Isekai, Fantasy, Action, Adventure, System, Gore, Supernatural",
+      "Rating": 3,
+      "Chapters": 10,
+      "Description": "",
+      "Authors" : "Emanuel Jhagarti",
+      "Section" : ""
+    },
+    {
+      "name": "Reborn As A Snake",
+      "Genre": "Isekai, Fantasy, Action, Adventure, System, Gore, Comedy, Supernatural",
+      "Rating": 3,
+      "Chapters": 10,
+      "Description": "",
+      "Authors" : "Emanuel Jhagarti",
+      "Section" : ""
+    },
+    {
       "name": "The Arcane Reject",
       "Genre": "Fantasy, Adventure, Action, Gore, Reincarnation",
       "Rating": 3,
       "Chapters": 10,
       "Description": "",
       "Authors" : "Emanuel Jhagarti",
-      "Section" : "New Arrivals"
+      "Section" : ""
+    },
+    {
+      "name": "The Arcane Reject",
+      "Genre": "Fantasy, Adventure, Action, Gore, Reincarnation",
+      "Rating": 3,
+      "Chapters": 10,
+      "Description": "",
+      "Authors" : "Emanuel Jhagarti",
+      "Section" : ""
+    },
+    {
+      "name": "The Arcane Reject",
+      "Genre": "Fantasy, Adventure, Action, Gore, Reincarnation",
+      "Rating": 3,
+      "Chapters": 10,
+      "Description": "",
+      "Authors" : "Emanuel Jhagarti",
+      "Section" : ""
     },
     {
       "name": "The Arcane Reject",
@@ -34,7 +115,7 @@
       "Chapters": 10,
       "Description": "",
       "Authors" : "Emanuel Jhagarti",
-      "Section" : "New Arrivals"
+      "Section" : ""
     },
     {
       "name": "The Arcane Reject",
@@ -52,7 +133,7 @@
       "Chapters": 10,
       "Description": "",
       "Authors" : "Emanuel Jhagarti",
-      "Section" : "New Arrivals"
+      "Section" : ""
     },
     {
       "name": "The Arcane Reject",
@@ -61,88 +142,7 @@
       "Chapters": 10,
       "Description": "",
       "Authors" : "Emanuel Jhagarti",
-      "Section" : "New Arrivals"
-    },
-    {
-      "name": "The Arcane Reject",
-      "Genre": "Fantasy, Adventure, Action, Gore, Reincarnation",
-      "Rating": 3,
-      "Chapters": 10,
-      "Description": "",
-      "Authors" : "Emanuel Jhagarti",
-      "Section" : "New Arrivals"
-    },
-    {
-      "name": "The Arcane Reject",
-      "Genre": "Fantasy, Adventure, Action, Gore, Reincarnation",
-      "Rating": 3,
-      "Chapters": 10,
-      "Description": "",
-      "Authors" : "Emanuel Jhagarti",
-      "Section" : "New Arrivals"
-    },
-    {
-      "name": "The Arcane Reject",
-      "Genre": "Fantasy, Adventure, Action, Gore, Reincarnation",
-      "Rating": 3,
-      "Chapters": 10,
-      "Description": "",
-      "Authors" : "Emanuel Jhagarti",
-      "Section" : "New Arrivals"
-    },
-    {
-      "name": "The Arcane Reject",
-      "Genre": "Fantasy, Adventure, Action, Gore, Reincarnation",
-      "Rating": 3,
-      "Chapters": 10,
-      "Description": "",
-      "Authors" : "Emanuel Jhagarti",
-      "Section" : "New Arrivals"
-    },
-    {
-      "name": "The Arcane Reject",
-      "Genre": "Fantasy, Adventure, Action, Gore, Reincarnation",
-      "Rating": 3,
-      "Chapters": 10,
-      "Description": "",
-      "Authors" : "Emanuel Jhagarti",
-      "Section" : "New Arrivals"
-    },
-    {
-      "name": "The Arcane Reject",
-      "Genre": "Fantasy, Adventure, Action, Gore, Reincarnation",
-      "Rating": 3,
-      "Chapters": 10,
-      "Description": "",
-      "Authors" : "Emanuel Jhagarti",
-      "Section" : "New Arrivals"
-    },
-    {
-      "name": "The Arcane Reject",
-      "Genre": "Fantasy, Adventure, Action, Gore, Reincarnation",
-      "Rating": 3,
-      "Chapters": 10,
-      "Description": "",
-      "Authors" : "Emanuel Jhagarti",
-      "Section" : "New Arrivals"
-    },
-    {
-      "name": "The Arcane Reject",
-      "Genre": "Fantasy, Adventure, Action, Gore, Reincarnation",
-      "Rating": 3,
-      "Chapters": 10,
-      "Description": "",
-      "Authors" : "Emanuel Jhagarti",
-      "Section" : "New Arrivals"
-    },
-    {
-      "name": "The Arcane Reject",
-      "Genre": "Fantasy, Adventure, Action, Gore, Reincarnation",
-      "Rating": 3,
-      "Chapters": 10,
-      "Description": "",
-      "Authors" : "Emanuel Jhagarti",
-      "Section" : "New Arrivals"
+      "Section" : ""
     }
   ] 
 }
