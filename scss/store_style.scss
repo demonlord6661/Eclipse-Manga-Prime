@@ -68,7 +68,7 @@
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
   --bs-body-color: #212529;
-  --bs-body-bg: #fff;
+  --bs-body-bg: #53047a;
 }
 
 *,
@@ -3093,7 +3093,7 @@ textarea.form-control.is-invalid {
   display: inline-block;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: white;
   text-align: center;
   text-decoration: none;
   vertical-align: middle;
@@ -3728,6 +3728,10 @@ fieldset:disabled .btn {
 .btn-outline-dark.disabled {
   color: #212529;
   background-color: transparent;
+}
+
+.text-color{
+color: #ffffff;
 }
 
 .btn-link {
