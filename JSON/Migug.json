@@ -1,148 +1,147 @@
 {
-  "Migug":[
-    {
-      "name": "The Arcane Reject",
-      "Genre": "Fantasy, Adventure, Action, Gore, Reincarnation",
-      "Rating": 3,
-      "Chapters": 10,
-      "Description": "",
-      "Authors" : "Emanuel Jhagarti",
-      "Section" : "New Arrivals"
-    },
-    {
-      "name": "Failed Noble Lord",
-      "Genre": "Fantasy, Martial Arts, System, Adventure, Action",
-      "Rating": 4,
-      "Chapters": 10,
-      "Description": "",
-      "Authors" : "Emanuel Jhagarti",
-      "Section" : ""
-    },
-    {
-      "name": "The Infinite Plane Of Stars",
-      "Genre": "Action, Fantasy, Sci-Fi, Adventure, Comedy, Martial Arts",
-      "Rating": 2,
-      "Chapters": 10,
-      "Description": "",
-      "Authors" : "Emanuel Jhagarti",
-      "Section" : ""
-    },
-    {
-      "name": "The Space Gods Daily Life",
-      "Genre": "Sci-Fi, Action, Comedy, Isekai, System",
-      "Rating": 3,
-      "Chapters": 10,
-      "Description": "",
-      "Authors" : "Emanuel Jhagarti",
-      "Section" : ""
-    },
-    {
-      "name": "Making A Kingdom On Hard Mode",
-      "Genre": "Fantasy, Action, System, Martial Arts, Mystery, Comedy, Gore",
-      "Rating": 5,
-      "Chapters": 10,
-      "Description": "",
-      "Authors" : "Emanuel Jhagarti",
-      "Section" : ""
-    },
-    {
-      "name": "Transmigrated Into A Ghost",
-      "Genre": "Fantasy, Action, System, COmedy, GOre, Isekai",
-      "Rating": 4,
-      "Chapters": 10,
-      "Description": "",
-      "Authors" : "Emanuel Jhagarti",
-      "Section" : ""
-    },
-    {
-      "name": "Worst Overlord's Kingdom",
-      "Genre": "Isekai, Fantasy, Action, Adventure, System, Gore, Supernatural",
-      "Rating": 3,
-      "Chapters": 10,
-      "Description": "",
-      "Authors" : "Emanuel Jhagarti",
-      "Section" : ""
-    },
-    {
-      "name": "Reborn As A Snake",
-      "Genre": "Isekai, Fantasy, Action, Adventure, System, Gore, Comedy, Supernatural",
-      "Rating": 3,
-      "Chapters": 10,
-      "Description": "",
-      "Authors" : "Emanuel Jhagarti",
-      "Section" : ""
-    },
-    {
-      "name": "The Arcane Reject",
-      "Genre": "Fantasy, Adventure, Action, Gore, Reincarnation",
-      "Rating": 3,
-      "Chapters": 10,
-      "Description": "",
-      "Authors" : "Emanuel Jhagarti",
-      "Section" : ""
-    },
-    {
-      "name": "The Arcane Reject",
-      "Genre": "Fantasy, Adventure, Action, Gore, Reincarnation",
-      "Rating": 3,
-      "Chapters": 10,
-      "Description": "",
-      "Authors" : "Emanuel Jhagarti",
-      "Section" : ""
-    },
-    {
-      "name": "The Arcane Reject",
-      "Genre": "Fantasy, Adventure, Action, Gore, Reincarnation",
-      "Rating": 3,
-      "Chapters": 10,
-      "Description": "",
-      "Authors" : "Emanuel Jhagarti",
-      "Section" : ""
-    },
-    {
-      "name": "The Arcane Reject",
-      "Genre": "Fantasy, Adventure, Action, Gore, Reincarnation",
-      "Rating": 3,
-      "Chapters": 10,
-      "Description": "",
-      "Authors" : "Emanuel Jhagarti",
-      "Section" : "New Arrivals"
-    },
-    {
-      "name": "The Arcane Reject",
-      "Genre": "Fantasy, Adventure, Action, Gore, Reincarnation",
-      "Rating": 3,
-      "Chapters": 10,
-      "Description": "",
-      "Authors" : "Emanuel Jhagarti",
-      "Section" : ""
-    },
-    {
-      "name": "The Arcane Reject",
-      "Genre": "Fantasy, Adventure, Action, Gore, Reincarnation",
-      "Rating": 3,
-      "Chapters": 10,
-      "Description": "",
-      "Authors" : "Emanuel Jhagarti",
-      "Section" : "New Arrivals"
-    },
-    {
-      "name": "The Arcane Reject",
-      "Genre": "Fantasy, Adventure, Action, Gore, Reincarnation",
-      "Rating": 3,
-      "Chapters": 10,
-      "Description": "",
-      "Authors" : "Emanuel Jhagarti",
-      "Section" : ""
-    },
-    {
-      "name": "The Arcane Reject",
-      "Genre": "Fantasy, Adventure, Action, Gore, Reincarnation",
-      "Rating": 3,
-      "Chapters": 10,
-      "Description": "",
-      "Authors" : "Emanuel Jhagarti",
-      "Section" : ""
-    }
-  ] 
+    "Migug": [{
+            "name": "The Arcane Reject",
+            "Genre": "Fantasy, Adventure, Action, Gore, Reincarnation",
+            "Rating": 3,
+            "Chapters": 10,
+            "Description": "",
+            "Authors": "Emanuel Jhagarti",
+            "Section": "New Arrivals"
+        },
+        {
+            "name": "Failed Noble Lord",
+            "Genre": "Fantasy, Martial Arts, System, Adventure, Action",
+            "Rating": 4,
+            "Chapters": 10,
+            "Description": "",
+            "Authors": "Emanuel Jhagarti",
+            "Section": "Top 10"
+        },
+        {
+            "name": "The Infinite Plane Of Stars",
+            "Genre": "Action, Fantasy, Sci-Fi, Adventure, Comedy, Martial Arts",
+            "Rating": 2,
+            "Chapters": 10,
+            "Description": "",
+            "Authors": "Emanuel Jhagarti",
+            "Section": "New Arrivals"
+        },
+        {
+            "name": "The Space Gods Daily Life",
+            "Genre": "Sci-Fi, Action, Comedy, Isekai, System",
+            "Rating": 3,
+            "Chapters": 10,
+            "Description": "",
+            "Authors": "Emanuel Jhagarti",
+            "Section": "Latest Updated List"
+        },
+        {
+            "name": "Making A Kingdom On Hard Mode",
+            "Genre": "Fantasy, Action, System, Martial Arts, Mystery, Comedy, Gore",
+            "Rating": 5,
+            "Chapters": 10,
+            "Description": "",
+            "Authors": "Emanuel Jhagarti",
+            "Section": "Fan Work List"
+        },
+        {
+            "name": "Transmigrated Into A Ghost",
+            "Genre": "Fantasy, Action, System, COmedy, GOre, Isekai",
+            "Rating": 4,
+            "Chapters": 10,
+            "Description": "",
+            "Authors": "Emanuel Jhagarti",
+            "Section": "Top 10"
+        },
+        {
+            "name": "Worst Overlord's Kingdom",
+            "Genre": "Isekai, Fantasy, Action, Adventure, System, Gore, Supernatural",
+            "Rating": 3,
+            "Chapters": 10,
+            "Description": "",
+            "Authors": "Emanuel Jhagarti",
+            "Section": "New Arrivals"
+        },
+        {
+            "name": "Reborn As A Snake",
+            "Genre": "Isekai, Fantasy, Action, Adventure, System, Gore, Comedy, Supernatural",
+            "Rating": 3,
+            "Chapters": 10,
+            "Description": "",
+            "Authors": "Emanuel Jhagarti",
+            "Section": "Fan Work"
+        },
+        {
+            "name": "Stuck In The Villians Path To Death",
+            "Genre": "Comedy, Action, Adventure, System",
+            "Rating": 3,
+            "Chapters": 10,
+            "Description": "",
+            "Authors": "Emanuel Jhagarti",
+            "Section": "Top 10"
+        },
+        {
+            "name": "Regret Of Heaven",
+            "Genre": "Action, Martial Arts, Adventure, Comedy, Fantasy, System",
+            "Rating": 6,
+            "Chapters": 10,
+            "Description": "",
+            "Authors": "Emanuel Jhagarti",
+            "Section": "Latest Updated List"
+        },
+        {
+            "name": "Path To The North Dragon God",
+            "Genre": "Martial Arts, Action, Adventure, Fantasy",
+            "Rating": 3,
+            "Chapters": 10,
+            "Description": "",
+            "Authors": "Emanuel Jhagarti",
+            "Section": "Latest Updated List"
+        },
+        {
+            "name": "Rejected Hero",
+            "Genre": "Fantasy, Action, Isekai, Adventure",
+            "Rating": 5,
+            "Chapters": 10,
+            "Description": "",
+            "Authors": "Emanuel Jhagarti",
+            "Section": "Latest Updated List"
+        },
+        {
+            "name": "Bloody Garden",
+            "Genre": "Fantasy, Action, Martial Arts, Adventure",
+            "Rating": 2,
+            "Chapters": 10,
+            "Description": "",
+            "Authors": "Emanuel Jhagarti",
+            "Section": "Fan Work List"
+        },
+        {
+            "name": "Uchu Kakumkei: Hashi No Umei",
+            "Genre": "Gundam, Action, Adventure, Sci-Fi",
+            "Rating": 6,
+            "Chapters": 10,
+            "Description": "",
+            "Authors": "Emanuel Jhagarti",
+            "Section": "Fan Work List"
+        },
+        {
+            "name": "Maxed Out In Other World",
+            "Genre": "Isekai, System, Action, Adventure, Fantasy, Supernatural",
+            "Rating": 6,
+            "Chapters": 10,
+            "Description": "",
+            "Authors": "Emanuel Jhagarti",
+            "Section": "Top 10"
+        },
+        {
+            "name": "Ancestor Of A Detected",
+            "Genre": "Mystery, Comedy, Action, System, Adventure, Time-Traveler",
+            "Rating": 3,
+            "Chapters": 10,
+            "Description": "",
+            "Authors": "Emanuel Jhagarti",
+            "Section": "New Arrivals"
+        }
+    ]
 }
