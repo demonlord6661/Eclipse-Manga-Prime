@@ -43,79 +43,134 @@
             "Price": "15.00",
             "Rating": 4,
             "RelatingMigug": "The Arcane Reject",
+            "Colors": ["Red grade 1", "Gold grade 2", "Purple grade 3", "Black grade 4"],
+            "Stock": 10
+        },
+        {
+            "Name": "Mini Zero star Globe",
+            "Price": "40.00",
+            "Rating": 5,
+            "RelatingMigug": "Infinite plane of stars",
+            "Stock": 15
+        },
+        {
+            "Name": "VR headset frame",
+            "Price": "40.00-60.00",
+            "Rating": 3,
+            "RelatingMigug": "Making a Kingdom on hard mode",
+            "Colors": ["Red", "Gold", "Purple", "Black"],
+            "Stock": 5
+        },
+        {
+            "Name": "The Book of Space Laws",
+            "Price": "38.00",
+            "Rating": 4,
+            "RelatingMigug": "Space god's daily life",
+            "Stock": 5
+        },
+        {
+            "Name": "The Arcane Reject's Staff",
+            "Price": "95.00",
+            "Rating": 3,
+            "RelatingMigug": "The Arcane Reject",
+            "Colors": ["Red", "Gold", "Purple", "Black"],
+            "Stock": 15
+        },
+        {
+            "Name": "decorative sword",
+            "Price": "50.00",
+            "Rating": 2,
+            "RelatingMigug": "Failed Noble lord",
+            "Stock": 10
+        },
+        {
+            "Name": "Overlord outfit",
+            "Price": "260.00",
+            "Rating": 3,
+            "RelatingMigug": "Worst overlords Kingdom",
+            "Colors": ["Gold", "Purple", "Black"],
+            "Stock": 15
+        }, {
+            "Name": "Villains Dress for revenge",
+            "Price": "220.00-390.00",
+            "Rating": 3,
+            "RelatingMigug": "Stuck in the villains path to death",
+            "Colors": ["Purple", "Gold", "Red", "Black"],
+            "Stock": 10
+        },
+        {
+            "Name": "Trench Coat with Vintage suit",
+            "Price": "220.00",
+            "Rating": 4,
+            "RelatingMigug": "Ancestor of a detective",
+            "Colors": ["Purple&Black", "Black&Red", "Gold&Purple,","Gold&Black"],
+            "Stock": 20
+        },
+        {
+            "Name": "Magic Knight outfit",
+            "Price": "340.00",
+            "Rating": 4,
+            "RelatingMigug": "Failed Noble lord",
+            "Colors": ["Red", "Purple", "Black"],
+            "Stock": 10
+        },
+        {
+            "Name": "Alley Ghost plushie",
+            "Price": "20.00-35.00",
+            "Rating": 3,
+            "RelatingMigug": "The Arcane Reject",
             "Colors": ["Red", "Gold", "Purple", "Black"],
             "Stock": 10
         },
         {
-            "Name": "",
-            "Price": "",
-            "Rating": ,
-            "RelatingMigug": "",
-            "Colors": ["Red", "Gold", "Purple", "Black"],
-            "Stock":
+            "Name": "Main character posters",
+            "Price": "18.00",
+            "Rating": 4,
+            "RelatingMigug": "Any",
+            "Stock": 20
         },
         {
-            "Name": "",
-            "Price": "",
-            "Rating": ,
-            "RelatingMigug": "",
+            "Name": "Amulet of sealed spells",
+            "Price": "9.00",
+            "Rating": 3,
+            "RelatingMigug": "The infinite plane of stars",
             "Colors": ["Red", "Gold", "Purple", "Black"],
-            "Stock":
+            "Stock": 15
         },
         {
-            "Name": "",
-            "Price": "",
-            "Rating": ,
-            "RelatingMigug": "",
-            "Colors": ["Red", "Gold", "Purple", "Black"],
-            "Stock":
+            "Name": "Main character figures",
+            "Price": "35.00",
+            "Rating": 4,
+            "RelatingMigug": "Any",
+            "Stock": 30
         },
         {
-            "Name": "",
-            "Price": "",
-            "Rating": ,
-            "RelatingMigug": "",
-            "Colors": ["Red", "Gold", "Purple", "Black"],
-            "Stock":
+            "Name": "Bronze box",
+            "Price": "55.00",
+            "Rating": 4,
+            "RelatingMigug": "Any",
+            "Stock": 10
         },
         {
-            "Name": "",
-            "Price": "",
-            "Rating": ,
-            "RelatingMigug": "",
-            "Colors": ["Red", "Gold", "Purple", "Black"],
-            "Stock":
+            "Name": "Sliver box",
+            "Price": "75.00",
+            "Rating": 4,
+            "RelatingMigug": "Any",
+            "Stock": 10
         },
         {
-            "Name": "",
-            "Price": "",
-            "Rating": ,
-            "RelatingMigug": "",
-            "Colors": ["Red", "Gold", "Purple", "Black"],
-            "Stock":
-        }, {
-            "Name": "",
-            "Price": "",
-            "Rating": ,
-            "RelatingMigug": "",
-            "Colors": ["Red", "Gold", "Purple", "Black"],
-            "Stock":
+            "Name": "Gold box",
+            "Price": "150.00",
+            "Rating": 5,
+            "RelatingMigug": "Any",
+            "Stock": 10
         },
         {
-            "Name": "",
-            "Price": "",
-            "Rating": ,
-            "RelatingMigug": "",
-            "Colors": ["Red", "Gold", "Purple", "Black"],
-            "Stock":
-        },
-        {
-            "Name": "",
-            "Price": "",
-            "Rating": ,
-            "RelatingMigug": "",
-            "Colors": ["Red", "Gold", "Purple", "Black"],
-            "Stock":
+            "Name": "platinum box",
+            "Price": "175.00",
+            "Rating": 4,
+            "RelatingMigug": "Any",
+            "Stock": 10
         }
     ]
 }
