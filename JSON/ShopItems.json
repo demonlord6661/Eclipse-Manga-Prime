@@ -1,59 +1,50 @@
 {
     "Items": [{
-            "Name": "",
-            "Price": "",
-            "Rating": ,
-            "RelatingMigug": "",
-            "Colors": ["Red", "Gold", "Purple", "Black"],
-            "Stock":
+            "Name": "The Arcane Reject",
+            "Price": "45.00",
+            "Rating": 4,
+            "Stock": 20
         },
         {
-            "Name": "",
-            "Price": "",
-            "Rating": ,
-            "RelatingMigug": "",
-            "Colors": ["Red", "Gold", "Purple", "Black"],
-            "Stock":
+            "Name": "Space god's daily life",
+            "Price": "30.00",
+            "Rating": 4,
+            "Stock": 20
         },
         {
-            "Name": "",
-            "Price": "",
-            "Rating": ,
-            "RelatingMigug": "",
-            "Colors": ["Red", "Gold", "Purple", "Black"],
-            "Stock":
+            "Name": "The failed noble lord",
+            "Price": "45.00",
+            "Rating": 3,
+            "Stock": 20
         },
         {
-            "Name": "",
-            "Price": "",
-            "Rating": ,
-            "RelatingMigug": "",
-            "Colors": ["Red", "Gold", "Purple", "Black"],
-            "Stock":
+            "Name": "Becoming a Ghost in another world",
+            "Price": "50.00",
+            "Rating": 4,
+            "Stock": 20
         },
         {
-            "Name": "",
-            "Price": "",
-            "Rating": ,
-            "RelatingMigug": "",
-            "Colors": ["Red", "Gold", "Purple", "Black"],
-            "Stock":
+            "Name": "Character Stickers",
+            "Price": "5.00",
+            "Rating": 3,
+            "RelatingMigug": "Any",
+            "Stock": 15
         },
         {
-            "Name": "",
-            "Price": "",
-            "Rating": ,
-            "RelatingMigug": "",
-            "Colors": ["Red", "Gold", "Purple", "Black"],
-            "Stock":
+            "Name": "Full body suit of a kingdom knight",
+            "Price": "120.00-280.00",
+            "Rating": 4,
+            "RelatingMigug": "Stuck in the villain's path to death",
+            "Colors": ["Red&black", "Gold","Gold&reed", "Black&white"],
+            "Stock": 5
         },
         {
-            "Name": "",
-            "Price": "",
-            "Rating": ,
-            "RelatingMigug": "",
+            "Name": "booklet of spells",
+            "Price": "15.00",
+            "Rating": 4,
+            "RelatingMigug": "The Arcane Reject",
             "Colors": ["Red", "Gold", "Purple", "Black"],
-            "Stock":
+            "Stock": 10
         },
         {
             "Name": "",
