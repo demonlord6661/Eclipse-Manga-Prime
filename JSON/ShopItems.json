@@ -1,38 +1,38 @@
 {
     "Items": [{
             "Name": "The Arcane Reject",
-            "Price": "45.00",
+            "Price": "$45.00",
             "Rating": 4,
             "Stock": 20
         },
         {
             "Name": "Space god's daily life",
-            "Price": "30.00",
+            "Price": "$30.00",
             "Rating": 4,
             "Stock": 20
         },
         {
             "Name": "The failed noble lord",
-            "Price": "45.00",
+            "Price": "$45.00",
             "Rating": 3,
             "Stock": 20
         },
         {
             "Name": "Becoming a Ghost in another world",
-            "Price": "50.00",
+            "Price": "$50.00",
             "Rating": 4,
             "Stock": 20
         },
         {
-            "Name": "Character Stickers",
-            "Price": "5.00",
+            "Name": "Character Stickers Pack",
+            "Price": "$5.00",
             "Rating": 3,
             "RelatingMigug": "Any",
             "Stock": 15
         },
         {
             "Name": "Full body suit of a kingdom knight",
-            "Price": "120.00-280.00",
+            "Price": "$120.00-$280.00",
             "Rating": 4,
             "RelatingMigug": "Stuck in the villain's path to death",
             "Colors": ["Red&black", "Gold","Gold&reed", "Black&white"],
@@ -40,7 +40,7 @@
         },
         {
             "Name": "booklet of spells",
-            "Price": "15.00",
+            "Price": "$15.00",
             "Rating": 4,
             "RelatingMigug": "The Arcane Reject",
             "Colors": ["Red grade 1", "Gold grade 2", "Purple grade 3", "Black grade 4"],
@@ -48,14 +48,14 @@
         },
         {
             "Name": "Mini Zero star Globe",
-            "Price": "40.00",
+            "Price": "$40.00",
             "Rating": 5,
             "RelatingMigug": "Infinite plane of stars",
             "Stock": 15
         },
         {
             "Name": "VR headset frame",
-            "Price": "40.00-60.00",
+            "Price": "$35.00-$65.00",
             "Rating": 3,
             "RelatingMigug": "Making a Kingdom on hard mode",
             "Colors": ["Red", "Gold", "Purple", "Black"],
@@ -63,14 +63,14 @@
         },
         {
             "Name": "The Book of Space Laws",
-            "Price": "38.00",
+            "Price": "$38.00",
             "Rating": 4,
             "RelatingMigug": "Space god's daily life",
             "Stock": 5
         },
         {
             "Name": "The Arcane Reject's Staff",
-            "Price": "95.00",
+            "Price": "$95.00",
             "Rating": 3,
             "RelatingMigug": "The Arcane Reject",
             "Colors": ["Red", "Gold", "Purple", "Black"],
@@ -78,21 +78,21 @@
         },
         {
             "Name": "decorative sword",
-            "Price": "50.00",
+            "Price": "$50.00",
             "Rating": 2,
             "RelatingMigug": "Failed Noble lord",
             "Stock": 10
         },
         {
             "Name": "Overlord outfit",
-            "Price": "260.00",
+            "Price": "$260.00",
             "Rating": 3,
             "RelatingMigug": "Worst overlords Kingdom",
             "Colors": ["Gold", "Purple", "Black"],
             "Stock": 15
         }, {
             "Name": "Villains Dress for revenge",
-            "Price": "220.00-390.00",
+            "Price": "$220.00-$390.00",
             "Rating": 3,
             "RelatingMigug": "Stuck in the villains path to death",
             "Colors": ["Purple", "Gold", "Red", "Black"],
@@ -100,7 +100,7 @@
         },
         {
             "Name": "Trench Coat with Vintage suit",
-            "Price": "220.00",
+            "Price": "$220.00",
             "Rating": 4,
             "RelatingMigug": "Ancestor of a detective",
             "Colors": ["Purple&Black", "Black&Red", "Gold&Purple,","Gold&Black"],
@@ -108,7 +108,7 @@
         },
         {
             "Name": "Magic Knight outfit",
-            "Price": "340.00",
+            "Price": "$340.00",
             "Rating": 4,
             "RelatingMigug": "Failed Noble lord",
             "Colors": ["Red", "Purple", "Black"],
@@ -116,7 +116,7 @@
         },
         {
             "Name": "Alley Ghost plushie",
-            "Price": "20.00-35.00",
+            "Price": "$20.00-$35.00",
             "Rating": 3,
             "RelatingMigug": "The Arcane Reject",
             "Colors": ["Red", "Gold", "Purple", "Black"],
@@ -124,14 +124,14 @@
         },
         {
             "Name": "Main character posters",
-            "Price": "18.00",
+            "Price": "$18.00",
             "Rating": 4,
             "RelatingMigug": "Any",
             "Stock": 20
         },
         {
             "Name": "Amulet of sealed spells",
-            "Price": "9.00",
+            "Price": "$10.00",
             "Rating": 3,
             "RelatingMigug": "The infinite plane of stars",
             "Colors": ["Red", "Gold", "Purple", "Black"],
@@ -139,35 +139,35 @@
         },
         {
             "Name": "Main character figures",
-            "Price": "35.00",
+            "Price": "$35.00",
             "Rating": 4,
             "RelatingMigug": "Any",
             "Stock": 30
         },
         {
             "Name": "Bronze box",
-            "Price": "55.00",
+            "Price": "$55.00",
             "Rating": 4,
             "RelatingMigug": "Any",
             "Stock": 10
         },
         {
             "Name": "Sliver box",
-            "Price": "75.00",
+            "Price": "$75.00",
             "Rating": 4,
             "RelatingMigug": "Any",
             "Stock": 10
         },
         {
             "Name": "Gold box",
-            "Price": "150.00",
+            "Price": "$150.00",
             "Rating": 5,
             "RelatingMigug": "Any",
             "Stock": 10
         },
         {
             "Name": "platinum box",
-            "Price": "175.00",
+            "Price": "$175.00",
             "Rating": 4,
             "RelatingMigug": "Any",
             "Stock": 10
