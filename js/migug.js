@@ -23,9 +23,9 @@ window.onload = function() {
                 document.getElementById('migug_chapters').innerHTML += `<li><a class="dropdown-item" href="#">${i}</a></li>`
             }
             $('#migug_description').text(`Description: ${description}`);
-            document.getElementById('migug_image_one').innerHTML += `<img src="${image1}" class="d-block w-100" alt="...">`
-            document.getElementById('migug_image_two').innerHTML += `<img src="${image2}" class="d-block w-100" alt="...">`
-            document.getElementById('migug_image_three').innerHTML += `<img src="${image3}" class="d-block w-100" alt="...">`
+            document.getElementById('migug_image_one').innerHTML += `<img src="${image1}" class="d-block" style="width: 21.875rem; height: 22.5rem; alt="...">`
+            document.getElementById('migug_image_two').innerHTML += `<img src="${image2}" class="d-block" style="width: 21.875rem; height: 22.5rem;  alt="...">`
+            document.getElementById('migug_image_three').innerHTML += `<img src="${image3}" class="d-block" style="width: 21.875rem; height: 22.5rem;  alt="...">`
         })
     } catch (err) {
         console.log("Issues with parsing URL Parameter's - " + err);
