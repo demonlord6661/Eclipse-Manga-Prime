@@ -1,8 +1,8 @@
 {
-            "Name": "Alley Ghost plushie",
-            "Price": "$20.00-$35.00",
-            "Rating": 3,
-            "RelatingMigug": "The Arcane Reject",
-            "Colors": ["Red", "Gold", "Purple", "Black"],
-            "Stock": 10
-        }
+  "Name": "Alley Ghost plushie",
+  "Price": "$20.00-$35.00",
+  "Rating": 3,
+  "RelatingMigug": "The Arcane Reject",
+  "Colors": ["Red", "Gold", "Purple", "Black"],
+  "Stock": 10
+}
