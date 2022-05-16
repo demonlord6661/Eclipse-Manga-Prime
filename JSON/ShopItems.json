@@ -1,70 +1,7 @@
 {
-    "Items": [{
-            "Name": "Transmigrated Into A Ghost!",
-            "Price": "$50.00",
-            "Rating": 4,
-            "Stock": 20
-        },
-        {
-            "Name": "Character Stickers Pack",
-            "Price": "$5.00",
-            "Rating": 3,
-            "RelatingMigug": "Any",
-            "Stock": 15
-        },
-        {
-            "Name": "Full body suit of a kingdom knight",
-            "Price": "$120.00-$280.00",
-            "Rating": 4,
-            "RelatingMigug": "Stuck in the villain's path to death",
-            "Colors": ["Red&black", "Gold", "Gold&reed", "Black&white"],
-            "Stock": 5
-        },
-        {
-            "Name": "booklet of spells",
-            "Price": "$15.00",
-            "Rating": 4,
-            "RelatingMigug": "The Arcane Reject",
-            "Colors": ["Red grade 1", "Gold grade 2", "Purple grade 3", "Black grade 4"],
-            "Stock": 10
-        },
-        {
-            "Name": "Mini Zero star Globe",
-            "Price": "$40.00",
-            "Rating": 5,
-            "RelatingMigug": "Infinite plane of stars",
-            "Stock": 15
-        },
-        {
-            "Name": "VR headset frame",
-            "Price": "$35.00-$65.00",
-            "Rating": 3,
-            "RelatingMigug": "Making a Kingdom on hard mode",
-            "Colors": ["Red", "Gold", "Purple", "Black"],
-            "Stock": 5
-        },
-        {
-            "Name": "The Book of Space Laws",
-            "Price": "$38.00",
-            "Rating": 4,
-            "RelatingMigug": "Space god's daily life",
-            "Stock": 5
-        },
-        {
-            "Name": "The Arcane Reject's Staff",
-            "Price": "$95.00",
-            "Rating": 3,
-            "RelatingMigug": "The Arcane Reject",
-            "Colors": ["Red", "Gold", "Purple", "Black"],
-            "Stock": 15
-        },
-        {
-            "Name": "decorative sword",
-            "Price": "$50.00",
-            "Rating": 2,
-            "RelatingMigug": "Failed Noble lord",
-            "Stock": 10
-        },
+    "Items": [
+        
+        
         {
             "Name": "Overlord outfit",
             "Price": "$260.00",

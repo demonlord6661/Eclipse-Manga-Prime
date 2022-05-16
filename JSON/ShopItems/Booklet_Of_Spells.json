@@ -1,0 +1,8 @@
+{
+  "Name": "booklet of spells",
+  "Price": "$15.00",
+  "Rating": 4,
+  "RelatingMigug": "The Arcane Reject",
+  "Colors": ["Red grade 1", "Gold grade 2", "Purple grade 3", "Black grade 4"],
+  "Stock": 10
+}
