@@ -1,0 +1,20 @@
+.description {
+  width: 190em;
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 35px;
+  box-shadow: 2px 5px 10px black;
+}
+
+.transparent_black {
+  background-color: rgba(0, 0, 0, 0.562);
+  padding: 40px;
+  border-radius: 75px;
+  border: 4px black solid;
+  box-shadow: 1px 2px 18px black, inset 3px 3px 15px rgba(68, 68, 68, 0.788), inset 1px 10px 20px rgba(68, 68, 68, 0.788);
+<<<<<<< HEAD
+}
+/*# sourceMappingURL=store_item.css.map */
+=======
+}/*# sourceMappingURL=store_item.css.map */
+>>>>>>> 6662278e1065968c0e09d91f11a30ba999228c20
