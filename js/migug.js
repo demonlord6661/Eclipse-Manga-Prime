@@ -1,19 +1,13 @@
-function onLoadPage(){
-
-  
-  
-  $.getJSON(`../JSON/Migug.json`, function(migug) {
-    var name = migug.Name;
+$.getJSON(`JSON/Migug.json`, function(migug) {
+    var name = migug.name;
     $("<div/>", {
-        'class': "container px-4 px-lg-5 mt-5",
-        text: "",
+        'class': "col mb-5",
+        text: "d",
         id: `${name}`,
     }).appendTo('#topTen');
-
     $("<div/>", {
-        'class': "row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center",
-        text: "",
-        id: ``,
-    }).appendTo(`${name}_card`);
-  });
-}
+        'class': "card h-100",
+        text: "d",
+        id: `${name}_card`,
+    }).appendTo(`${name}`);
+});
