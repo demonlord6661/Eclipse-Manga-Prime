@@ -3,7 +3,7 @@ window.onload = function() {
         var url_string = $(location).attr("href");
         var url = new URL(url_string);
         var name = url.searchParams.get("name");
-        $.getJSON(`../JSON/migugs/${name}.json`, function(migug) {
+        $.getJSON(`https://demonlord6661.github.io/Eclipse-Manga-Prime/JSON/migugs/${name}.json`, function(migug) {
             var name = migug.name;
             var genre = migug.Genre;
             var authors = migug.Authors;
