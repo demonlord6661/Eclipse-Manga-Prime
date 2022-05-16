@@ -1,24 +1,6 @@
 {
     "Items": [{
-            "Name": "The Arcane Reject",
-            "Price": "$45.00",
-            "Rating": 4,
-            "Stock": 20
-        },
-        {
-            "Name": "Space god's daily life",
-            "Price": "$30.00",
-            "Rating": 4,
-            "Stock": 20
-        },
-        {
-            "Name": "The failed noble lord",
-            "Price": "$45.00",
-            "Rating": 3,
-            "Stock": 20
-        },
-        {
-            "Name": "Becoming a Ghost in another world",
+            "Name": "Transmigrated Into A Ghost!",
             "Price": "$50.00",
             "Rating": 4,
             "Stock": 20
@@ -35,7 +17,7 @@
             "Price": "$120.00-$280.00",
             "Rating": 4,
             "RelatingMigug": "Stuck in the villain's path to death",
-            "Colors": ["Red&black", "Gold","Gold&reed", "Black&white"],
+            "Colors": ["Red&black", "Gold", "Gold&reed", "Black&white"],
             "Stock": 5
         },
         {
@@ -103,7 +85,7 @@
             "Price": "$220.00",
             "Rating": 4,
             "RelatingMigug": "Ancestor of a detective",
-            "Colors": ["Purple&Black", "Black&Red", "Gold&Purple,","Gold&Black"],
+            "Colors": ["Purple&Black", "Black&Red", "Gold&Purple,", "Gold&Black"],
             "Stock": 20
         },
         {
