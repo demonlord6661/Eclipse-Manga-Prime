@@ -1,0 +1,16 @@
+{
+    "Items":[
+        {
+            "name": "Alley Ghost Plushie",
+            "price": 25.00,
+            "img": "imgs/Logo.png",
+            "stock": 10
+        },
+        {
+            "name": "The Arcane Rejects Staff",
+            "price": 95.00,
+            "img": "imgs/Logo.png",
+            "stock": 15
+        }
+    ]
+}
