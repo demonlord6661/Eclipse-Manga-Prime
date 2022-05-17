@@ -1,0 +1,1 @@
+$("#mail_link").mouseover(function () { document.getElementById("mail_link") += `<i class="bi bi-send"></i>` })
