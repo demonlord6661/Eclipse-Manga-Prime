@@ -11,14 +11,11 @@ Side note: I know that this style of nesting in SASS doesn't result in the most 
 
 $color-border: #eee;
 $color-label: #aaa;
-$font-default: 'HelveticaNeue-Light',
-'Helvetica Neue Light',
-'Helvetica Neue',
+$font-default: 'HelveticaNeue-Light','Helvetica Neue Light', 'Helvetica Neue',
 Helvetica,
 Arial,
 sans-serif;
-$font-bold: 'HelveticaNeue-Medium',
-'Helvetica Neue Medium';
+$font-bold: 'HelveticaNeue-Medium', 'Helvetica Neue Medium';
 
 /* Global "table" column settings */
 
