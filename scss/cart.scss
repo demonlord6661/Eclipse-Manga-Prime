@@ -10,11 +10,8 @@ Side note: I know that this style of nesting in SASS doesn't result in the most 
 /* Global settings */
 
 $color-border: #eee;
-$color-label: #aaa;
-$font-default: 'HelveticaNeue-Light','Helvetica Neue Light', 'Helvetica Neue',
-Helvetica,
-Arial,
-sans-serif;
+$color-label: rgb(255, 234, 234);
+$font-default: 'HelveticaNeue-Light','Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $font-bold: 'HelveticaNeue-Medium', 'Helvetica Neue Medium';
 
 /* Global "table" column settings */
@@ -90,9 +87,14 @@ $font-bold: 'HelveticaNeue-Medium', 'Helvetica Neue Medium';
 /* Body/Header stuff */
 
 body {
-    padding: 0px 30px 30px 20px;
-    font-family: $font-default;
-    font-weight: 100;
+  
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 100;
+color:white 
+}
+
+.padded{
+  padding: 0px 30px 30px 20px;
 }
 
 h1 {
