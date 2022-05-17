@@ -1,0 +1,8 @@
+{
+            "Name": "Amulet of sealed spells",
+            "Price": "$10.00",
+            "Rating": 3,
+            "RelatingMigug": "The infinite plane of stars",
+            "Colors": ["Red", "Gold", "Purple", "Black"],
+            "Stock": 15
+        }
