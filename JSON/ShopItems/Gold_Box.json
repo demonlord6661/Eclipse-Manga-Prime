@@ -1,7 +1,8 @@
 {
-            "Name": "Gold box",
-            "Price": "$150.00",
-            "Rating": 5,
-            "RelatingMigug": "Any",
-            "Stock": 10
-        }
+    "Name": "Gold box",
+    "Price": "$150.00",
+    "Rating": 5,
+    "RelatingMigug": "",
+    "Colors": "",
+    "Stock": 10
+}

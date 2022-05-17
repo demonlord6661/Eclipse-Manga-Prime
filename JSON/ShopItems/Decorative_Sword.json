@@ -1,7 +1,8 @@
 {
-            "Name": "decorative sword",
-            "Price": "$50.00",
-            "Rating": 2,
-            "RelatingMigug": "Failed Noble lord",
-            "Stock": 10
-        }
+    "Name": "decorative sword",
+    "Price": "$50.00",
+    "Rating": 2,
+    "RelatingMigug": "Failed Noble lord",
+    "Colors": "",
+    "Stock": 10
+}

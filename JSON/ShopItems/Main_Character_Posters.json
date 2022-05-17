@@ -1,7 +1,8 @@
 {
-            "Name": "Main character posters",
-            "Price": "$18.00",
-            "Rating": 4,
-            "RelatingMigug": "Any",
-            "Stock": 20
-        }
+    "Name": "Main character posters",
+    "Price": "$18.00",
+    "Rating": 4,
+    "RelatingMigug": "",
+    "Colors": "",
+    "Stock": 20
+}

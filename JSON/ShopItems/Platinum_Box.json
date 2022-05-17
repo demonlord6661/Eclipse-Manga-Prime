@@ -1,7 +1,8 @@
 {
-            "Name": "platinum box",
-            "Price": "$175.00",
-            "Rating": 4,
-            "RelatingMigug": "Any",
-            "Stock": 10
-        }
+    "Name": "Platinum Box",
+    "Price": "$175.00",
+    "Rating": 6,
+    "RelatingMigug": "",
+    "Colors": "",
+    "Stock": 10
+}

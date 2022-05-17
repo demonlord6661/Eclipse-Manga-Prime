@@ -1,7 +1,8 @@
- {
-  "Name": "The Book of Space Laws",
-  "Price": "$38.00",
-  "Rating": 4,
-  "RelatingMigug": "Space god's daily life",
-  "Stock": 5
+{
+    "Name": "The Book of Space Laws",
+    "Price": "$38.00",
+    "Rating": 4,
+    "RelatingMigug": "Space god's daily life",
+    "Colors": "",
+    "Stock": 5
 }

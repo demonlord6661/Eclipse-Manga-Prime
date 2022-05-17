@@ -1,7 +1,8 @@
 {
-  "Name": "Mini Zero star Globe",
-  "Price": "$40.00",
-  "Rating": 5,
-  "RelatingMigug": "Infinite plane of stars",
-  "Stock": 15
+    "Name": "Mini Zero star Globe",
+    "Price": "$40.00",
+    "Rating": 5,
+    "RelatingMigug": "Infinite plane of stars",
+    "Colors": "",
+    "Stock": 15
 }
