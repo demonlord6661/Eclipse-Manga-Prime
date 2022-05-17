@@ -67,7 +67,7 @@
 
         </div>
         <script>
-            $.getJSON(`../JSON/Cart.json`, function (item) {
+            $.getJSON(`https://demonlord6661.github.io/Eclipse-Manga-Prime/JSON/Cart.json`, function (item) {
   for (var i = 0; i < item.Items.length; i++) {
     var name=item.Items[i].name;
     var price=parseFloat(item.Items[i].price).toFixed(2);
