@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /* CTA CSS */
 .cta-padding35 {
   padding: 35px 0 35px;
@@ -18,7 +19,7 @@
   z-index: 1;
   color: #b40028;
   background-color: transparent;
-  transition: all .25s ease-in-out;
+  transition: all 0.25s ease-in-out;
   margin: 10px 0px 10px 0px;
 }
 
@@ -39,14 +40,14 @@
 .footer h5 {
   font-size: 18px;
   font-weight: 700;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: #707070;
   position: relative;
   padding-bottom: 16px;
 }
 
 .footer h5:after {
-  content: '';
+  content: "";
   display: block;
   margin: 5px 0 0;
   width: 40%;
@@ -111,22 +112,22 @@
 
 #social-fb:hover {
   color: #3B5998;
-  transition: all .25s;
+  transition: all 0.25s;
 }
 
 #social-tw:hover {
   color: #4099FF;
-  transition: all .25s;
+  transition: all 0.25s;
 }
 
 #social-gp:hover {
   color: #d34836;
-  transition: all .25s;
+  transition: all 0.25s;
 }
 
 #social-em:hover {
   color: #f39c12;
-  transition: all .25s;
+  transition: all 0.25s;
 }
 
 /* Site Heading */
@@ -183,7 +184,7 @@
 
 /* font CSS */
 body {
-  font-family: 'Roboto';
+  font-family: "Roboto";
   line-height: 24px;
   letter-spacing: 0.5px;
   font-weight: 400;
@@ -277,7 +278,7 @@ i {
 }
 
 .breadcrumb > li + li::before {
-  content: "\203A";
+  content: "›";
   color: #999;
   padding: 0 8px;
 }
@@ -291,6 +292,7 @@ i {
   font-weight: 800;
   text-transform: uppercase;
   webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  -moz-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
   -ms-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
   -o-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
@@ -392,15 +394,16 @@ i {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
     color: #ffffff;
   }
+
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
-  .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
     color: #b40028;
   }
+
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
-  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
-  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
     color: #b40028;
     background-color: #011034;
   }
-}
-/*# sourceMappingURL=aboutUs.css.map */
+}/*# sourceMappingURL=aboutUs.css.map */
