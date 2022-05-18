@@ -738,6 +738,20 @@ progress {
   flex: 1 0 0%;
 }
 
+.cara-color{
+color: rgb(80, 76, 76);
+}
+
+.cara-item{
+  width: 20rem; 
+  height: 15rem; 
+  margin-left: 13rem;
+}
+
+.cara-space{
+  padding: 1.5rem;
+}
+
 .row-cols-auto > * {
   flex: 0 0 auto;
   width: auto;
