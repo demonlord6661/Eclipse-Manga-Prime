@@ -11663,3 +11663,28 @@ fieldset:disabled .btn {
     display: none !important;
   }
 }
+
+#myModal{
+  img{
+    width: 100%;
+  }
+  .modal-body{
+    padding: 0;
+  }
+  .modal-dialog{
+    max-width: 800px;
+  }
+  .formWrap{
+    padding: 35px 45px;
+    text-align: center;
+  }
+  h1{
+    font-size: 26px;
+    margin-bottom: 10px;
+  }
+  hr{
+    width: 50px;
+    height: 2px;
+    background: #ff5722;
+  }
+}
